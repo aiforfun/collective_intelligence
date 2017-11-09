@@ -1,0 +1,3 @@
+https://github.com/nico/collectiveintelligence-book
+http://www.feedparser.org
+http://blogmaverick.com/feed/
